@@ -82,7 +82,7 @@ Tour through Datasources, Compute, Experiments etc
 
 The goal of this demo is to create an Azure Machine Learning (AML) workspace and compute environment in order to run an experiment in the cloud. 
 
-:sparkles: Check the demo 👉🏼 [here](./digits-cloudrun)
+:sparkles: Check the demo 👉🏼 [here](./digits-cloud-run)
 
 ### ☁ Deploying to the cloud
 
