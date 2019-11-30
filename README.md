@@ -26,7 +26,8 @@
 ### 2. Make sure to redeem your $100 pass as described in the intro session
 
 ### 3. Create Azure Machine Learninge Resources with the Deploy to Azure Button below
-<a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fcassieview%2Fignite-learning-paths-training-aiml%2Fmaster%2Faiml30%2Fdeploy.json" rel="nofollow">
+
+<a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%trallard%2FML-in-AML%2Fmaster%2deploy%2Fdeploy.json" rel="nofollow">
  <img src="https://camo.githubusercontent.com/9285dd3998997a0835869065bb15e5d500475034/687474703a2f2f617a7572656465706c6f792e6e65742f6465706c6f79627574746f6e2e706e67" data-canonical-src="http://azuredeploy.net/deploybutton.png" style="max-width:100%;">
 </a>
 
