@@ -1,10 +1,8 @@
 # Getting started with Azure Machine Learning
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-2D677F.svg?style=flat)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-9980FA.svg?style=flat)](https://opensource.org/licenses/MIT)
 
-## UCL Data science hackathon 
 - [Getting started with Azure Machine Learning](#getting-started-with-azure-machine-learning)
-  - [UCL Data science hackathon](#ucl-data-science-hackathon)
   - [🛠 Setup Steps](#%f0%9f%9b%a0-setup-steps)
     - [1. Create an Azure account 👉🏼 here](#1-create-an-azure-account-%f0%9f%91%89%f0%9f%8f%bc-here)
     - [2. Make sure to redeem your $100 pass as described in the intro session](#2-make-sure-to-redeem-your-100-pass-as-described-in-the-intro-session)
@@ -12,6 +10,7 @@
     - [4. Create Additional Resources Needed](#4-create-additional-resources-needed)
       - [Create Compute Targets](#create-compute-targets)
       - [Optional Kuberetes Cluster](#optional-kuberetes-cluster)
+    - [Retrieve important information](#retrieve-important-information)
   - [📖 Content](#%f0%9f%93%96-content)
     - [🔖 Intro to Azure Machine Learning service](#%f0%9f%94%96-intro-to-azure-machine-learning-service)
     - [☁ Deploying to the cloud](#%e2%98%81-deploying-to-the-cloud)
@@ -60,6 +59,15 @@ Once you have created the base Azure Machine Learning Service Workspace we need 
     * Select `Kubernetes Service` from the dropdown
     * Click `Create`
     ![Create Kubernetes](https://globaleventcdn.blob.core.windows.net/assets/aiml/aiml30/CreateKubService.gif)
+
+### Retrieve important information
+In order to run the demos you will need to retrieve the following information:
+
+- `subscription id`: You can get this by going to <azure.portal.com> and logging into your account. Search for *subscriptions* using the search bar, click on your subscription and copy the id.
+- `resource group`: the name of the resource group you created in the setup steps
+- `compute target name`: the name of the compute target you created in the setup steps
+
+:warning: Make sure to **never** commit any of these details to Git / GitHub :warning:
 
 ##  📖 Content
 
