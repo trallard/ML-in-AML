@@ -15,7 +15,7 @@
     - [🔖 Intro to Azure Machine Learning service](#%f0%9f%94%96-intro-to-azure-machine-learning-service)
     - [☁ Deploying to the cloud](#%e2%98%81-deploying-to-the-cloud)
     - [⚡️ Advanced experimentation techniques in AML](#%e2%9a%a1%ef%b8%8f-advanced-experimentation-techniques-in-aml)
-  - [Resources](#resources)
+  - [📖 Resources](#%f0%9f%93%96-resources)
   - [📄 License](#%f0%9f%93%84-license)
   - [🙏🏼 Acknowledgements](#%f0%9f%99%8f%f0%9f%8f%bc-acknowledgements)
 
@@ -101,8 +101,9 @@ These features are designed to create agility in the data science process by aut
 
 :sparkles: Check the automl demo 👉🏼 [here](./automl-digits)
 
-## Resources
+##  📖 Resources
 
+- Complimentary slides <https://speakerdeck.com/trallard/how-can-azure-superpower-your-data-science-journey>
 - [Azure Machine learning](https://azure.microsoft.com/services/machine-learning/?WT.mc_id=amldemo-github-taallard)
 - [Create development environment for Machine learning](https://docs.microsoft.com/azure/machine-learning/service/how-to-configure-environment?WT.mc_id=amldemo-github-taallard)
 - [Hyperparameter tuning in AML](https://docs.microsoft.com/azure/machine-learning/service/how-to-tune-hyperparameters?WT.mc_id=amldemo-github-taallard)
