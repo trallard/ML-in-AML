@@ -15,8 +15,9 @@
     - [🔖 Intro to Azure Machine Learning service](#%f0%9f%94%96-intro-to-azure-machine-learning-service)
     - [☁ Deploying to the cloud](#%e2%98%81-deploying-to-the-cloud)
     - [⚡️ Advanced experimentation techniques in AML](#%e2%9a%a1%ef%b8%8f-advanced-experimentation-techniques-in-aml)
+  - [Resources](#resources)
   - [📄 License](#%f0%9f%93%84-license)
-  - [🙏🏼 Acknowledgments](#%f0%9f%99%8f%f0%9f%8f%bc-acknowledgments)
+  - [🙏🏼 Acknowledgements](#%f0%9f%99%8f%f0%9f%8f%bc-acknowledgements)
 
 ## 🛠 Setup Steps
 
@@ -100,9 +101,21 @@ These features are designed to create agility in the data science process by aut
 
 :sparkles: Check the automl demo 👉🏼 [here](./automl-digits)
 
+## Resources
+
+- [Azure Machine learning](https://azure.microsoft.com/services/machine-learning/?WT.mc_id=amldemo-github-taallard)
+- [Create development environment for Machine learning](https://docs.microsoft.com/azure/machine-learning/service/how-to-configure-environment?WT.mc_id=amldemo-github-taallard)
+- [Hyperparameter tuning in AML](https://docs.microsoft.com/azure/machine-learning/service/how-to-tune-hyperparameters?WT.mc_id=amldemo-github-taallard)
+- [AML Python SDK](https://docs.microsoft.com/azure/machine-learning/service/how-to-configure-environment?WT.mc_id=amldemo-github-taallard)
+- [AML Pipelines](https://docs.microsoft.com/azure/machine-learning/service/how-to-create-your-first-pipeline?WT.mc_id=amldemo-github-taallard)
+- [Getting started with Auto ML](https://docs.microsoft.com/azure/machine-learning/service/concept-automated-ml?WT.mc_id=amldemo-github-taallard)
+- [Intro to AML – MS Learn](https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-machine-learning-service/?WT.mc_id=amldemo-github-taallard)
+- [Automate model select with AML - MS Learn](https://docs.microsoft.com/en-us/learn/modules/automate-model-selection-with-azure-automl/?WT.mc_id=amldemo-github-taallard)
+- [Train local model with AML - MS Learn ](https://docs.microsoft.com/en-us/learn/modules/train-local-model-with-azure-mls/?WT.mc_id=amldemo-github-taallard)
+
 ## 📄 License
 This work is licensed under the [MIT OSI license](https://opensource.org/licenses/MIT).
 
-## 🙏🏼 Acknowledgments
+## 🙏🏼 Acknowledgements
 
 The demos were deeply inspired and adapted from previous work done by Seth Juarez and Cassie Brevieu ([cloud-scale](https://github.com/cloudscaleml)).
