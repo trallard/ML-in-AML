@@ -105,7 +105,7 @@ def main(
 
     # how to optimize the function
     model.compile(
-        optimizer=Adam(learning_rate=0.001),
+        optimizer=Adam(learning_rate=learning_rate),
         loss="sparse_categorical_crossentropy",
         metrics=["accuracy"],
     )
@@ -124,11 +124,6 @@ def main(
         batch_size=batch_size,
         callbacks=[logaml, checkpoint],
     )
-
-    # add time prefix folder
-    file_output = os.path.join(output_path, "latest.hdf5")
-    print("Serializing h5 model to:\n{}".format(file_output))
-    model.save(file_output)
 
     info("Test")
     test_set = x_test.reshape((len(x_test), -1)) / 255.0

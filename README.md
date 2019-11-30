@@ -1,9 +1,21 @@
 # Aazure machine learning demos
 
 ## UCL Data science hackathon 
+- [Aazure machine learning demos](#aazure-machine-learning-demos)
+  - [UCL Data science hackathon](#ucl-data-science-hackathon)
+  - [🛠 Setup Steps](#%f0%9f%9b%a0-setup-steps)
+    - [1. Create an Azure account 👉🏼 here](#1-create-an-azure-account-%f0%9f%91%89%f0%9f%8f%bc-here)
+    - [2. Make sure to redeem your $100 pass as described in the intro session](#2-make-sure-to-redeem-your-100-pass-as-described-in-the-intro-session)
+    - [3. Create Azure Machine Learninge Resources with the Deploy to Azure Button below](#3-create-azure-machine-learninge-resources-with-the-deploy-to-azure-button-below)
+    - [4. Create Additional Resources Needed](#4-create-additional-resources-needed)
+  - [Create Compute Targets](#create-compute-targets)
+  - [Optional Kuberetes Cluster](#optional-kuberetes-cluster)
+  - [📖 Content](#%f0%9f%93%96-content)
+  - [🔖 Intro to Azure Machine Learning service](#%f0%9f%94%96-intro-to-azure-machine-learning-service)
+  - [☁ Deploying to the cloud](#%e2%98%81-deploying-to-the-cloud)
+  - [⚡️ Advanced experimentation techniques in AML](#%e2%9a%a1%ef%b8%8f-advanced-experimentation-techniques-in-aml)
 
-
-## Setup Steps
+## 🛠 Setup Steps
 
 ### 1. Create an Azure account 👉🏼 [here](https://azure.microsoft.com/en-us/free/?WT.mc_id=ucl-demo-trallard)
 
@@ -44,3 +56,32 @@ Once you have created the base Azure Machine Learning Service Workspace we need 
     * Click `Create`
     ![Create Kubernetes](https://globaleventcdn.blob.core.windows.net/assets/aiml/aiml30/CreateKubService.gif)
 
+##  📖 Content
+
+## 🔖  Intro to Azure Machine Learning service
+
+This demo introduce attendees to the basics of Azure Machine Learning service. Concepts such as a workspace, compute environment, data stores, experiments, etc. will be introduced in preparation for a machine learning experiment in the cloud.
+
+Intro to Azure Machine Learning service
+Logical Layout vs Physical Resources
+Tour through Datasources, Compute, Experiments etc
+
+The goal of this demo is to create an Azure Machine Learning (AML) workspace and compute environment in order to run an experiment in the cloud. 
+
+Check it 👉🏼 [here](./digits-cloudrun)
+
+## ☁ Deploying to the cloud
+
+This demo focuses on creating a model that can be deployed and later accessed through an endpoint.  This builds on the previous demo created and is ultimately deployed in as an Azure Container instance.
+
+Check it 👉🏼 [here](./digits-cloud-deploy)
+
+
+## ⚡️ Advanced experimentation techniques in AML
+
+These demos focus on advanced techniques available for experimentation in Azure Machine Learning service: hyperparameter tuning, automatic machine learning.
+
+These features are designed to create agility in the data science process by automating several repetitive tasks associated with starting a new project.
+
+Check it 👉🏼 [here](./hyperparameters)
+Check it 👉🏼 [here](./automl-digits)
