@@ -21,13 +21,13 @@
 
 ## 🛠 Setup Steps
 
-### 1. Create an Azure account 👉🏼 [here](https://azure.microsoft.com/en-us/free/?WT.mc_id=amldemo-github-trallard)
+### 1. Create an Azure account 👉🏼 [here](https://azure.microsoft.com/free/?WT.mc_id=academic-0000-taallard)
 
 ### 2. Make sure to redeem your $100 pass as described in the intro session
 
 ### 3. Create Azure Machine Learninge Resources with the Deploy to Azure Button below
 
-<a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%trallard%2FML-in-AML%2Fmaster%2deploy%2Fdeploy.json" rel="nofollow">
+<a href="https://portal.azure.com/?WT.mc_id=academic-0000-taallard#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%25trallard%2FML-in-AML%2Fmaster-eploy%2Fdeploy.json" rel="nofollow">
  <img src="https://camo.githubusercontent.com/9285dd3998997a0835869065bb15e5d500475034/687474703a2f2f617a7572656465706c6f792e6e65742f6465706c6f79627574746f6e2e706e67" data-canonical-src="http://azuredeploy.net/deploybutton.png" style="max-width:100%;">
 </a>
 
@@ -105,15 +105,15 @@ These features are designed to create agility in the data science process by aut
 ##  📖 Resources
 
 - Complimentary slides <https://speakerdeck.com/trallard/how-can-azure-superpower-your-data-science-journey>
-- [Azure Machine learning](https://azure.microsoft.com/services/machine-learning/?WT.mc_id=amldemo-github-taallard)
-- [Create development environment for Machine learning](https://docs.microsoft.com/azure/machine-learning/service/how-to-configure-environment?WT.mc_id=amldemo-github-taallard)
-- [Hyperparameter tuning in AML](https://docs.microsoft.com/azure/machine-learning/service/how-to-tune-hyperparameters?WT.mc_id=amldemo-github-taallard)
-- [AML Python SDK](https://docs.microsoft.com/azure/machine-learning/service/how-to-configure-environment?WT.mc_id=amldemo-github-taallard)
-- [AML Pipelines](https://docs.microsoft.com/azure/machine-learning/service/how-to-create-your-first-pipeline?WT.mc_id=amldemo-github-taallard)
-- [Getting started with Auto ML](https://docs.microsoft.com/azure/machine-learning/service/concept-automated-ml?WT.mc_id=amldemo-github-taallard)
-- [Intro to AML – MS Learn](https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-machine-learning-service/?WT.mc_id=amldemo-github-taallard)
-- [Automate model select with AML - MS Learn](https://docs.microsoft.com/en-us/learn/modules/automate-model-selection-with-azure-automl/?WT.mc_id=amldemo-github-taallard)
-- [Train local model with AML - MS Learn ](https://docs.microsoft.com/en-us/learn/modules/train-local-model-with-azure-mls/?WT.mc_id=amldemo-github-taallard)
+- [Azure Machine learning](https://azure.microsoft.com/services/machine-learning/?WT.mc_id=academic-0000-taallard)
+- [Create development environment for Machine learning](https://docs.microsoft.com/azure/machine-learning/service/how-to-configure-environment?WT.mc_id=academic-0000-taallard)
+- [Hyperparameter tuning in AML](https://docs.microsoft.com/azure/machine-learning/service/how-to-tune-hyperparameters?WT.mc_id=academic-0000-taallard)
+- [AML Python SDK](https://docs.microsoft.com/azure/machine-learning/service/how-to-configure-environment?WT.mc_id=academic-0000-taallard)
+- [AML Pipelines](https://docs.microsoft.com/azure/machine-learning/service/how-to-create-your-first-pipeline?WT.mc_id=academic-0000-taallard)
+- [Getting started with Auto ML](https://docs.microsoft.com/azure/machine-learning/service/concept-automated-ml?WT.mc_id=academic-0000-taallard)
+- [Intro to AML – MS Learn](https://docs.microsoft.com/learn/modules/intro-to-azure-machine-learning-service/?WT.mc_id=academic-0000-taallard)
+- [Automate model select with AML - MS Learn](https://docs.microsoft.com/learn/modules/automate-model-selection-with-azure-automl/?WT.mc_id=academic-0000-taallard)
+- [Train local model with AML - MS Learn ](https://docs.microsoft.com/learn/modules/train-local-model-with-azure-mls/?WT.mc_id=academic-0000-taallard)
 
 ## 📄 License
 This work is licensed under the [MIT OSI license](https://opensource.org/licenses/MIT).
